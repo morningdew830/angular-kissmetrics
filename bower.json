@@ -1,0 +1,16 @@
+{
+  "name": "Angular Kissmetrics",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Brightergy-IvanVesely/angular-kissmetrics",
+  "authors": [
+    "BrighterLink A-Team"
+  ],
+  "description": "Kissmetrics Analytics for Angular.js application",
+  "main": "src/angular-kissmetrics.js",
+  "keywords": [
+    "angular.js",
+    "angular",
+    "kissmetrics"
+  ],
+  "license": "MIT"
+}
